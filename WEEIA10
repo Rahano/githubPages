@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:-//Kalendarz WEEIA//
+VERSION:2.0
+CALSCALE:GREGORIAN
+UID:WeeiaCalendarExample
+BEGIN:VEVENT
+DTSTAMP:20201201T142831Z
+DTSTART;VALUE=DATE:20201101
+SUMMARY:Akcja Integracja Online
+UID:WeeiaCalendarExample0
+URL:https://facebook.com/events/s/akcja-integracja-odkryj-z-nami/3041545625959235/?ti=as
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T142831Z
+DTSTART;VALUE=DATE:20201108
+SUMMARY:Wielka Integracja WIP
+UID:WeeiaCalendarExample1
+URL:https://www.facebook.com/events/381849316135778/?active_tab=discussion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T142831Z
+DTSTART;VALUE=DATE:20201109
+SUMMARY:Wielka Integracja WIP
+UID:WeeiaCalendarExample2
+URL:https://www.facebook.com/events/381849316135778/?active_tab=discussion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T142831Z
+DTSTART;VALUE=DATE:20201110
+SUMMARY:Wielka Integracja WIP
+UID:WeeiaCalendarExample3
+URL:https://www.facebook.com/events/381849316135778/?active_tab=discussion
+END:VEVENT
+END:VCALENDAR
